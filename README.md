@@ -22,7 +22,9 @@ The IPL Analysis Dashboard is a visualization tool created using Tableau that al
 
 ## Screenshots
 
-<img width="960" alt="image" src="https://github.com/RAHULMYDUR/IPL-Analysis-Dashboard/assets/123269117/e729320d-3c27-4c4a-8d0e-ea45b532380a">
+
+<img width="960" alt="image" src="https://github.com/RAHULMYDUR/IPL-Analysis-Dashboard/assets/123269117/05ef9501-47a3-42b3-8312-d043fcbad1cc">
+
 
 
 ## Data Source
